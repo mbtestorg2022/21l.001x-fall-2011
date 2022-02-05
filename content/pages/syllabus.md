@@ -35,10 +35,39 @@ You will also be responsible for a brief (15–20 minute) oral presentation on t
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Essays | 75% |
-| Class participation (including oral presentation) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essays
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation (including oral presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Statement on Plagiarism
 ---------------------------
@@ -48,42 +77,527 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | _The Epic of Gilgamesh_, Tablets 1–6 | &nbsp; |
-| 3 | _The Epic of Gilgamesh_, Tablets 7–11 | &nbsp; |
-| 4 | _The Odyssey_, Books 1, 5, 9 | &nbsp; |
-| 5 | _The Odyssey_, Books 12–14 | &nbsp; |
-| 6 | _The Odyssey_, Books 18, 19, 24 | &nbsp; |
-| 7 | _The Republic_, Chapter 4 \[Preview with [Google Books](http://books.google.com/books?id=1H7gvzj5_CEC&pg=PAfrontcover#v=onepage)\] | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} _The Republic_, Chapter 13 {{< br >}}{{< br >}} 1st essay topics distributed {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Aristotle, "Poetics." In _The Norton Anthology of Theory and Criticism_ | &nbsp; |
-| 10 | Aeschylus, "Agamemnon." In _The Oresteia_ | &nbsp; |
-| 11 | Aeschylus, "Agamemnon" (cont.) | 1st essay due |
-| 12 | _Oedipus Rex_ | &nbsp; |
-| 13 | _The New Oxford Annotated Bible_, Genesis, Chapters 1–11 | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} _The New Oxford Annotated Bible_, Chapters 22, 32, 37 {{< br >}}{{< br >}} 1st essay returned {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | _The New Oxford Annotated Bible_, The Gospel of Matthew | &nbsp; |
-| 16 | _The Analects of Confucius: A Philosophical Translation_, Books 1–4 | &nbsp; |
-| 17 | _The Analects of Confucius: A Philosophical Translation_, Books 5–12 | &nbsp; |
-| 18 | _The Analects of Confucius: A Philosophical Translation_, Books 13–20 | &nbsp; |
-| 19 | _What the Buddha Taught_, Chapters 1–5 | &nbsp; |
-| 20 | _What the Buddha Taught_, Chapters 6–8 | &nbsp; |
-| 21 | _What the Buddha Taught_, pp. 91–136 | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} _The Bhagavad-Gita_, Introduction, Teachings 1–8 {{< br >}}{{< br >}} 2nd essay topics distributed {{< br >}}{{< br >}}  | &nbsp; |
-| 23 | _The Bhagavad-Gita_, Teachings 9–18 | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Selections from _The Jataka Tales_: {{< br >}}{{< br >}} "The Monkey and the Crocodile"  {{< br >}}"How the Turtle Saved his own Life"  {{< br >}}"The Foolish, Timid Rabbit"  {{< br >}}"The Wise and the Foolish Merchant"  {{< br >}}"The Ox Who Envied the Pig"  {{< br >}}"The Princes and the Water-Sprite"  {{< br >}}"Why the Owl is not the King of the Birds" {{< br >}}{{< br >}}  | &nbsp; |
-| 25 |  {{< br >}}{{< br >}} Selections from _the Qur'an_: {{< br >}}{{< br >}} Sura 1, "The Opening" {{< br >}}{{< br >}} Sura 13, "Thunder" {{< br >}}{{< br >}} Sura 96, "The Blood Clot" {{< br >}}{{< br >}}  | 2nd essay due |
-| 26 |  {{< br >}}{{< br >}} Selections from _the Qur'an_: {{< br >}}{{< br >}} Sura 2, "The Cow" {{< br >}}{{< br >}} Sura 3, "The House of 'Imran" {{< br >}}{{< br >}} Sura 16, "The Bees" {{< br >}}{{< br >}}  | &nbsp; |
-| 27 |  {{< br >}}{{< br >}} _The Divine Comedy_, Selections from _Book 3 Hell (Inferno)_, Cantos 1–3, 5, 25–28, 32–34 {{< br >}}{{< br >}} 2nd essay returned {{< br >}}{{< br >}}  | &nbsp; |
-| 28 | _The Divine Comedy_, Selections from _Book 2 Purgatory(Purgatorio)_, Cantos 1, 5, 10, 11, 30, 33 | &nbsp; |
-| 29 | _The Divine Comedy_, Selections from _Book 1 Paradise (Parasdiso)_, Cantos 1, 2, 9, 18–20, 31–33 | &nbsp; |
-| 30 | _The Ramayana_, Chapters 1–4 | &nbsp; |
-| 31 | _The Ramayana_, Chapters 5–10 | &nbsp; |
-| 32 |  {{< br >}}{{< br >}} _The Ramayana_, Chapters 11–14 {{< br >}}{{< br >}} Final essay topics distributed {{< br >}}{{< br >}}  | &nbsp; |
-| 33 | _The Arabian Nights_, Prologue, Nights 1–14 | &nbsp; |
-| 34 | _The Arabian Nights_, Nights 102–110 | &nbsp; |
-| 35 | _Don Quixote_, selections from Part 1: Chapters 1–5, 7–10, 16–19 | Final essay due |
-| 36 | _Don Quixote_, selections from Part 2: Chapters 1–7, 10–14, 42–45, 72–74 | &nbsp; |
-| 37 | Wrap up day |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_The Epic of Gilgamesh_, Tablets 1–6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_The Epic of Gilgamesh_, Tablets 7–11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_The Odyssey_, Books 1, 5, 9
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_The Odyssey_, Books 12–14
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_The Odyssey_, Books 18, 19, 24
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_The Republic_, Chapter 4 \[Preview with [Google Books](http://books.google.com/books?id=1H7gvzj5_CEC&pg=PAfrontcover#v=onepage)\]
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Republic_, Chapter 13
+
+1st essay topics distributed
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle, "Poetics." In _The Norton Anthology of Theory and Criticism_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Aeschylus, "Agamemnon." In _The Oresteia_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Aeschylus, "Agamemnon" (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+1st essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Oedipus Rex_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_The New Oxford Annotated Bible_, Genesis, Chapters 1–11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The New Oxford Annotated Bible_, Chapters 22, 32, 37
+
+1st essay returned
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_The New Oxford Annotated Bible_, The Gospel of Matthew
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_The Analects of Confucius: A Philosophical Translation_, Books 1–4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_The Analects of Confucius: A Philosophical Translation_, Books 5–12
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_The Analects of Confucius: A Philosophical Translation_, Books 13–20
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_What the Buddha Taught_, Chapters 1–5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_What the Buddha Taught_, Chapters 6–8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_What the Buddha Taught_, pp. 91–136
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Bhagavad-Gita_, Introduction, Teachings 1–8
+
+2nd essay topics distributed
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_The Bhagavad-Gita_, Teachings 9–18
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selections from _The Jataka Tales_:
+
+"The Monkey and the Crocodile"  
+"How the Turtle Saved his own Life"  
+"The Foolish, Timid Rabbit"  
+"The Wise and the Foolish Merchant"  
+"The Ox Who Envied the Pig"  
+"The Princes and the Water-Sprite"  
+"Why the Owl is not the King of the Birds"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selections from _the Qur'an_:
+
+Sura 1, "The Opening"
+
+Sura 13, "Thunder"
+
+Sura 96, "The Blood Clot"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+2nd essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selections from _the Qur'an_:
+
+Sura 2, "The Cow"
+
+Sura 3, "The House of 'Imran"
+
+Sura 16, "The Bees"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Divine Comedy_, Selections from _Book 3 Hell (Inferno)_, Cantos 1–3, 5, 25–28, 32–34
+
+2nd essay returned
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+_The Divine Comedy_, Selections from _Book 2 Purgatory(Purgatorio)_, Cantos 1, 5, 10, 11, 30, 33
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+_The Divine Comedy_, Selections from _Book 1 Paradise (Parasdiso)_, Cantos 1, 2, 9, 18–20, 31–33
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+_The Ramayana_, Chapters 1–4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+_The Ramayana_, Chapters 5–10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Ramayana_, Chapters 11–14
+
+Final essay topics distributed
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+_The Arabian Nights_, Prologue, Nights 1–14
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+_The Arabian Nights_, Nights 102–110
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+_Don Quixote_, selections from Part 1: Chapters 1–5, 7–10, 16–19
+{{< tdclose >}}
+{{< tdopen >}}
+Final essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+_Don Quixote_, selections from Part 2: Chapters 1–7, 10–14, 42–45, 72–74
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap up day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
